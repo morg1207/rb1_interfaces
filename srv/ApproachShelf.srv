@@ -1,0 +1,4 @@
+string type_control
+---
+bool success 
+string state_control_output
